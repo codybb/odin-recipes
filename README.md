@@ -1,2 +1,2 @@
 # odin-recipes
-This is going to be my first attempt at a project!
+First attempt at a project with some favorite recipes!
